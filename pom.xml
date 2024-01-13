@@ -18,6 +18,7 @@
 
 	<modules>
 		<module>hibernate-springboot-assigned-uuid</module>
+		<module>hibernate-springboot-assigned-sequencial-number</module>
 	</modules>
 
 	<properties>
